@@ -2,4 +2,3 @@
 2. I fix the bug by performing a numeric conversion in the expression
 ![msg](fix.png)
 ![msg](bugLine.png)
-![msg](afterFix.png)
